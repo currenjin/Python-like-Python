@@ -8,7 +8,7 @@ output example:<br>
 `432`<br><br><br>
 위 예시는 '3212' 값을 가진 5진법 숫자를 10진법으로 출력한 내용이에요.<br><br>
 파이썬에 익숙하지 않다면(기능을 모르거나) 아래와 같이 코드가 나오겠어요!<br><br>
-```
+```python
 num = '3212'<br>
 base = 5<br>
 answer = 0<br>
@@ -22,7 +22,7 @@ print(answer)
 
 ### **보다 파이썬답게 작성한다면?<br><br>**
 int(x, base = 10) 형태로 진법 변환을 지원해요!<br>
-```
+```python
 num = '3212'<br>
 base = 5<br>
 answer = int(num, base)<br>
