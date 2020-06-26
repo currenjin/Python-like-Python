@@ -10,9 +10,9 @@ input example:<br>
 `abc 7`<br><br>
 output example:<br>
 ```
-abc<br>
-    abc<br>
-        abc<br>
+abc
+    abc
+        abc
 ```
 <br><br>
 이런 문제가 생겼을 때 저 같은 경우는 이렇게 했습니다!<br>
