@@ -19,9 +19,12 @@ output example:<br>
 ```python
 import string
 
-# 순서: 알파벳 소문자, 대문자, 소문자 대문자 모두, 숫자
-string.ascii_lowercase
-string.ascii_uppercase
+if num == 0:
+  print(string.ascii_lowercase)
+elif num == 1:
+  print(string.ascii_uppercase)
+
+# 추가로 대소문자 모두, 숫자 출력하는 string 상수
 string.ascii_letters
 string.digits
 ```
