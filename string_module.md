@@ -18,6 +18,7 @@ output example:<br>
 파이썬으로는 아주 간단하죠. string 상수를 이용하면 됩니다!<br>
 ```python
 import string
+num = int(input().strip())
 
 if num == 0:
   print(string.ascii_lowercase)
