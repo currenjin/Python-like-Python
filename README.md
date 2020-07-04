@@ -6,4 +6,4 @@
 * [정렬을 쉽게 해보자_ljust, rjust, center](./arrange/ljust,rjust,center.md)
 * [알파벳 모두를 출력해_string 상수](./arrange/string_module.md)
 * [2차원 리스트를 뒤집어_zip](./arrange/zip.md)
-* [type을 손쉽게 변환하자!_map](./arrange/map.md)
+* [type을 손쉽게 변환해_map](./arrange/map.md)
