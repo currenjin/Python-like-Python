@@ -1,6 +1,6 @@
 ## **모든 멤버의 Type을 변환해볼까?**
 
-### solution 함수는 문자열 리스트를 mylist를 입력받아요. 이 리스트를 정수형 리스트로 바꿔주세요!<br><br><br>
+### solution 함수는 문자열 리스트를 mylist를 입력받아요. 이 리스트를 정수형 리스트로 바꿔주세요!<br><br>
 input example:<br>
 `['1','100','33']`<br><br>
 output example:<br>
