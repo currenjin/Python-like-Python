@@ -1,5 +1,5 @@
 # Python-like-Python<br>
-"파이썬을 파이썬답게"
+### **"파이썬을 파이썬답게"**
 
 * [몫과 나머지를 모두_divmod, unpacking](./arrange/divmod,unpacking.md)
 * [진법변환을 간단하게_int(x,base)](./arrange/int(x,base).md)
