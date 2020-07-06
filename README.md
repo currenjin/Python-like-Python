@@ -1,5 +1,5 @@
-# Python-like-Python<br>
-### "파이썬을 파이썬답게"
+# "파이썬을 파이썬답게"<br>
+### Python like Python
 
 * [몫과 나머지를 모두_divmod, unpacking](./arrange/divmod,unpacking.md)
 * [진법변환을 간단하게_int(x,base)](./arrange/int(x,base).md)
@@ -8,3 +8,4 @@
 * [2차원 리스트를 뒤집어_zip](./arrange/zip.md)
 * [Type을 손쉽게 변환해_map](./arrange/map.md)
 * [sequence 멤버를 하나로 이어붙이기_join](./arrange/join.md)
+* [sequence type 문자열 반복시키기_*(./arrange/mul.md)
