@@ -1,12 +1,12 @@
 ## **2차원 리스트를 1차원 리스트로 바꿔보자!**
 
 ### 문자열을 담은 2차원 리스트, mylist가 있습니다. solution 함수가 mylist를 1차원 리스트로 만들도록 리턴하세요!<br><br>
-input example:<br>
+input example1:<br>
 `[[1], [2]]`<br><br>
 output example:<br>
 `[1, 2]`
 <br><br><br>
-input example:<br>
+input example2:<br>
 `[['A', 'B'], ['X', 'Y'], ['1']]`<br><br>
 output example:<br>
 `['A', 'B', 'X' ,'Y', '1']`
