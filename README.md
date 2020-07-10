@@ -10,3 +10,4 @@
 * [sequence 멤버를 하나로 이어붙이기_join](./arrange/join.md)
 * [sequence type 문자열 반복시키기_*](./arrange/mul.md)
 * [2차원 리스트를 1차원 리스트로 만들어_iterable](./arrange/iterable.md)
+* [리스트의 원소를 사전순으로 출력해_permutations](./arrange/permutations.md)
