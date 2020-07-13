@@ -8,7 +8,7 @@ input example:<br>
 6은 짝수이므로 제곱합니다.<br>
 7은 홀수이므로 무시합니다.<br><br>
 output example:<br>
-`[4, 36]`<br><br><br>
+`[4, 36]`<br><br>
 **특정 기능을 모르시는 많은 분들은 아마 아래와 같이 for문 안에 if문을 사용할 것이라고 예상돼요!<br>**
 ```python
 def solution(mylist):
