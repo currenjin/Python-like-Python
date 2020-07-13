@@ -30,8 +30,10 @@ def solution(mylist):
     return answer
 ```
 <br>
-초보자 분들은 이해하시기엔 무리일 수 있는 문법입니다. 아래는 문법인데요!<br>
+아래는 문법입니다!<br>
 
 `["async"] "for" target_list "in" or_test [comp_iter]`<br><br>
+
+초보자들에겐 다소 어려울 수 있는 문법이에요.<br>
 
 [여기](https://docs.python.org/3/reference/expressions.html?highlight=list%20comprehension#displays-for-lists-sets-and-dictionaries)를 클릭해 list comprehension syntax를 확인해주시는 것도 학습에 대한 좋은 방법입니다. :)<br>
