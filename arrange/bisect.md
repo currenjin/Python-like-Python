@@ -8,9 +8,8 @@ X가 중간값보다 크면 우측 데이터를 대상으로 재탐색을하고 
 input example:
 ```python
 mylist = [1, 2, 3, 7, 9, 11, 33]
-x = 3
 
-bisect(mylist, 3)
+print(bisect(mylist, 3))
 ```
 output example:
 ```
