@@ -16,3 +16,4 @@
 * [for문에서 else를 이용해_for-else](./arrange/for-else.md)
 * [두 변수의 값을 바꿔_swap](./arrange/swap.md)
 * [이진 탐색을 해봐_bisect](./arrange/bisect.md)
+* [가장 큰 수를 표현해_inf](./arrange/inf.md)
