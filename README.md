@@ -11,7 +11,7 @@
 * [sequence type 문자열 반복시키기_*](./arrange/mul.md)
 * [2차원 리스트를 1차원 리스트로 만들어_iterable](./arrange/iterable.md)
 * [리스트의 원소를 사전순으로 출력해_permutations](./arrange/permutations.md)
-* [문자를 카운트 해볼래_Counter](./arrange/counter.md)
+* [문자를 카운트 해볼래_counter](./arrange/counter.md)
 * [for문 안에 if문을 넣어_List comprehension](./arrange/for_in_if.md)
 * [for문에서 else를 이용해_for-else](./arrange/for-else.md)
 * [두 변수의 값을 바꿔_swap](./arrange/swap.md)

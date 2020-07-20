@@ -30,6 +30,11 @@ print(''.join(sorted(answer)))
 ### **보다 파이썬답게 작성한다면?<br><br>**
 알아보았더니! 파이썬에선 collections.Counter 클래스를 이용하면 아주 간단하게, 간략하게 코드를 작성할 수 있답니다.<br>
 ```python
+import collections
 
+my_str = input().strip()
+answer = collections.Counter(my_str)
+
+print(sorted(answer))
 ```
 <br><br>
