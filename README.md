@@ -17,3 +17,4 @@
 * [두 변수의 값을 바꿔_swap](./arrange/swap.md)
 * [이진 탐색을 해봐_bisect](./arrange/bisect.md)
 * [가장 큰 수를 표현해_inf](./arrange/inf.md)
+* [파일을 입출력해_with-as](./arrange/inf.md)
