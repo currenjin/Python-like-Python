@@ -18,5 +18,12 @@
 * [이진 탐색을 해보기_bisect](./arrange/bisect.md)
 * [가장 큰 수를 표현하기_inf](./arrange/inf.md)
 * [파일을 입출력 하기_with-as](./arrange/with-as.md)
+<br>
+
 ### 파이썬을 더욱 파이썬답게 사용하기 위한 핵심 팁 9가지!
 > [링크](https://lazymatlab.tistory.com/m/92?fbclid=IwAR2ozhNqba7lBPyjeodrPggG223tjixSnqUUlW96mr-8oyUINwwrcM4Fw_E)
+<br>
+
+### 파이썬의 숨은 기능 17가지!!
+> [링크](https://medium.com/@chrisjune_13837/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%88%A8%EC%9D%80-%EA%B8%B0%EB%8A%A5-17%EA%B0%80%EC%A7%80-f85a36a73899)
+<br>
