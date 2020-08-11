@@ -27,3 +27,7 @@
 ### 파이썬의 숨은 기능 17가지!!
 > [링크](https://medium.com/@chrisjune_13837/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%88%A8%EC%9D%80-%EA%B8%B0%EB%8A%A5-17%EA%B0%80%EC%A7%80-f85a36a73899)
 <br>
+
+### Write Better Python Code With These 10 Tricks!!
+> [링크](https://towardsdatascience.com/write-better-python-code-with-these-10-tricks-30b7018e247a)
+<br>
