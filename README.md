@@ -20,6 +20,10 @@
 * [파일을 입출력 하기_with-as](./arrange/with-as.md)
 <br>
 
+### Write Better Python Code With These 10 Tricks!!
+> [링크](https://towardsdatascience.com/write-better-python-code-with-these-10-tricks-30b7018e247a)
+<br>
+
 ### 파이썬을 더욱 파이썬답게 사용하기 위한 핵심 팁 9가지!
 > [링크](https://lazymatlab.tistory.com/m/92?fbclid=IwAR2ozhNqba7lBPyjeodrPggG223tjixSnqUUlW96mr-8oyUINwwrcM4Fw_E)
 <br>
@@ -28,6 +32,3 @@
 > [링크](https://medium.com/@chrisjune_13837/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%88%A8%EC%9D%80-%EA%B8%B0%EB%8A%A5-17%EA%B0%80%EC%A7%80-f85a36a73899)
 <br>
 
-### Write Better Python Code With These 10 Tricks!!
-> [링크](https://towardsdatascience.com/write-better-python-code-with-these-10-tricks-30b7018e247a)
-<br>
