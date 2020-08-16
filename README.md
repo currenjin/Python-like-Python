@@ -1,4 +1,4 @@
-# "파이썬을 파이썬답게"
+# "Python like Python"
 
 <br>
 
@@ -6,7 +6,7 @@
 
 <br>
 
-### Python like Python
+## 파이썬을 더욱 파이썬답게 만드는 코드
 
 * [몫과 나머지를 한번에 계산하기_divmod, unpacking](./arrange/divmod,unpacking.md)
 * [진법변환을 간단하게 하기_int(x,base)](./arrange/int(x,base).md)
