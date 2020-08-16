@@ -3,7 +3,7 @@
 파이써닉한 코드 작성을 위해 생각하고 정리하는 공간이에요.<br>
 목적은 누가봐도 알기 쉬운 코드를 작성하는 것이죠.
 
-## Basic
+## 기본
 
 <details markdown="1">
 <summary>접기/펼치기</summary>
@@ -89,6 +89,7 @@ print(f'My name is {family} {name}. My Family name is {family}')
 <br>
 
 </details>
+<br>
 
 ## 데이터 구조
 
@@ -100,4 +101,7 @@ print(f'My name is {family} {name}. My Family name is {family}')
 
 
 
+<br>
+
 <details>
+<br>
