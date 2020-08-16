@@ -1,4 +1,7 @@
 # "파이썬을 파이썬답게"<br>
+
+## [누구나 알아보기 쉬우면서 파이썬다운 코드를 작성하는 공간](./pythonic)
+
 ### Python like Python
 
 * [몫과 나머지를 한번에 계산하기_divmod, unpacking](./arrange/divmod,unpacking.md)
