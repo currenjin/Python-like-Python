@@ -89,3 +89,15 @@ print(f'My name is {family} {name}. My Family name is {family}')
 <br>
 
 </details>
+
+## 데이터 구조
+
+<details markdown="1">
+<summary>접기/펼치기</summary>
+
+<br>
+
+
+
+
+<details>
