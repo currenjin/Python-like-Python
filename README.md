@@ -3,6 +3,7 @@
 <br>
 
 ## 누구나 알아보기 쉬우면서 파이썬다운 코드를 작성하는 공간
+
 - [Pythonic Code Style](./pythonic)
 
 <br>
