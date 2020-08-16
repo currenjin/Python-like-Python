@@ -5,10 +5,11 @@
 
 ## Basic
 
-- [변수를 문장처럼 사용해보자!]()
-`my_name_is = hyunjin`
+- 변수를 문장처럼 사용해보자!
+<br>`my_name_is = hyunjin`
+<br>
 
-- [수학 함수]()
+- [반올림 및 수학 함수](./round.py)
 ```python
 import math
 print(help(math))
@@ -17,8 +18,9 @@ print(help(math))
 pie = 3.1415
 print(round(pie, 2))
 ```
+<br>
 
-- [문자열 인덱스 슬라이싱]()
+- [문자열 인덱스 슬라이싱](./slice.py)
 ```python
 word = python
 print(word[0])
@@ -33,8 +35,9 @@ print(word[:])
 # 문자열의 길이
 print(len(word))
 ```
+<br>
 
-- [문자의 메소드]()
+- [문자의 메소드](./string_method.py)
 ```python
 s = 'My name is Hyunjin. Hi Hyunjin'
 
@@ -59,8 +62,9 @@ print(s.lower())
 # 문자를 치환
 print(s.replace('Hyunjin', 'Jeong'))
 ```
+<br>
 
-- [문자열 포맷과 f-strings]()
+- [문자열 포맷과 f-strings](./format&f-strings.py)
 ```python
 # 문자열의 format을 사용해봅니다.
 print('a is {}'.format('a'))
@@ -77,3 +81,4 @@ family = 'Jeong'
 name = 'Hyunjin'
 print(f'My name is {family} {name}. My Family name is {family}')
 ```
+<br>
