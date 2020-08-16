@@ -99,9 +99,9 @@ print(f'My name is {family} {name}. My Family name is {family}')
 <br>
 
 
-
+comming soon
 
 <br>
 
-<details>
+</details>
 <br>
