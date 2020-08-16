@@ -89,7 +89,6 @@ print(f'My name is {family} {name}. My Family name is {family}')
 <br>
 
 </details>
-<br>
 
 ## 데이터 구조
 
@@ -104,4 +103,3 @@ comming soon
 <br>
 
 </details>
-<br>
