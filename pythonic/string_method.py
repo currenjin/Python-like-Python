@@ -8,6 +8,9 @@ print(is_start)
 is_start = s.startswith('X')
 print(is_start)
 
+is_start = s.startswith('Hyunjin')
+print(is_start)
+
 print("##################")
 
 # 각각 맨 앞/맨 뒤부터 해당 변수에서 문자의 인덱스를 찾아준다.
