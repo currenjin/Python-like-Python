@@ -5,6 +5,9 @@
 
 ## Basic
 
+<details markdown="1">
+<summary>접기/펼치기</summary>
+
 - 변수를 문장처럼 사용해보자!
 <br>`my_name_is = hyunjin`
 <br>
@@ -82,3 +85,5 @@ name = 'Hyunjin'
 print(f'My name is {family} {name}. My Family name is {family}')
 ```
 <br>
+
+</details>
