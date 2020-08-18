@@ -97,9 +97,27 @@ print(f'My name is {family} {name}. My Family name is {family}')
 
 <br>
 
+### [List](./list.py)
 
-comming soon
+- [list 메소드](./list_method.py)
+- [list 복사](./list_copy.py)
+<br>
 
+### [Tuple](./tuple.py)
+
+- [tuple 언패킹](./tuple_unpacking)
+<br>
+
+### [Dictionary](./dictionary.py)
+
+- [dictionary 메소드](./dictionary_method.py)
+- [dictionary 복사](./dictionary_copy.py)
+<br>
+
+### [Set](./set.py)
+
+- [set 메소드](./set_method.py)
+<br>
 <br>
 
 </details>
