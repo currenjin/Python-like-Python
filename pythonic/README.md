@@ -14,7 +14,7 @@
 <br>`my_name_is = hyunjin`
 <br>
 
-- [반올림 및 수학 함수](./round.py)
+- [반올림 및 수학 함수](./basic/round.py)
 ```python
 import math
 print(help(math))
@@ -25,7 +25,7 @@ print(round(pie, 2))
 ```
 <br>
 
-- [문자열 인덱스 슬라이싱](./slice.py)
+- [문자열 인덱스 슬라이싱](./basic/slice.py)
 ```python
 word = python
 print(word[0])
@@ -42,7 +42,7 @@ print(len(word))
 ```
 <br>
 
-- [문자의 메소드](./string_method.py)
+- [문자의 메소드](./basic/string_method.py)
 ```python
 s = 'My name is Hyunjin. Hi Hyunjin'
 
@@ -69,7 +69,7 @@ print(s.replace('Hyunjin', 'Jeong'))
 ```
 <br>
 
-- [문자열 포맷과 f-strings](./format&f-strings.py)
+- [문자열 포맷과 f-strings](./basic/format&f-strings.py)
 ```python
 # 문자열의 format을 사용해봅니다.
 print('a is {}'.format('a'))
@@ -97,26 +97,26 @@ print(f'My name is {family} {name}. My Family name is {family}')
 
 <br>
 
-### [List](./list.py)
+### [List](./data_structure/list.py)
 
-- [list 메소드](./list_method.py)
-- [list 복사](./list_copy.py)
+- [list 메소드](./data_structure/list_method.py)
+- [list 복사](./data_structure/list_copy.py)
 <br>
 
-### [Tuple](./tuple.py)
+### [Tuple](./data_structure/tuple.py)
 
-- [tuple 언패킹](./tuple_unpacking)
+- [tuple 언패킹](./data_structure/tuple_unpacking)
 <br>
 
-### [Dictionary](./dictionary.py)
+### [Dictionary](./data_structure/dictionary.py)
 
-- [dictionary 메소드](./dictionary_method.py)
-- [dictionary 복사](./dictionary_copy.py)
+- [dictionary 메소드](./data_structure/dictionary_method.py)
+- [dictionary 복사](./data_structure/dictionary_copy.py)
 <br>
 
-### [Set](./set.py)
+### [Set](./data_structure/set.py)
 
-- [set 메소드](./set_method.py)
+- [set 메소드](./data_structure/set_method.py)
 <br>
 <br>
 
