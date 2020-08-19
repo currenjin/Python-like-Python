@@ -122,7 +122,7 @@ print(f'My name is {family} {name}. My Family name is {family}')
 
 </details>
 
-## 제어 플로와 코드 구조
+## 제어 흐름과 코드 구조
 
 <details markdown="1">
 <summary>접기/펼치기</summary>
