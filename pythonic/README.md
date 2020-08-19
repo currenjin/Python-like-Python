@@ -135,19 +135,19 @@ print(f'My name is {family} {name}. My Family name is {family}')
 ### [한 줄이 길어진다면?](./control_flow&code_structure/next_line.py)
 <br>
 
-### [반복문]
+### 반복문
 
 - [while(else, continue, break)](./control_flow&code_structure/while.py)
 - [for(else, continue, break)](./control_flow&code_structure/for.py)
 <br>
 
-### [조건문]
+### 조건문
 
 - [if](./control_flow&code_structure/if.py)
 - [값이 있는지 확인](./control_flow&code_structure/in.py)
 <br>
 
-### [함수]
+### 함수
 
 - [input](./control_flow&code_structure/input.py)
 - [range](./control_flow&code_structure/range.py)
