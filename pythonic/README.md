@@ -130,19 +130,9 @@ print(f'My name is {family} {name}. My Family name is {family}')
 <br>
 
 ### [주석](./control_flow&code_structure/comment.py)
-
-<br>
-
 ### [논리 연산](./control_flow&code_structure/logical_operation.py)
-
-<br>
-
 ### [None](./control_flow&code_structure/comment.py)
-
-<br>
-
 ### [한 줄이 길어진다면?](./control_flow&code_structure/next_line.py)
-
 <br>
 
 ### [반복문]
