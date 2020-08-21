@@ -148,11 +148,15 @@ print(f'My name is {family} {name}. My Family name is {family}')
 <br>
 
 ### 함수
-
+- [함수의 정의](./control_flow&code_structure/def.py)
+- [parameter](./control_flow&code_structure/def_parameter.py)
 - [input](./control_flow&code_structure/input.py)
 - [range](./control_flow&code_structure/range.py)
 - [zip](./control_flow&code_structure/zip.py)
 - [enumerate](./control_flow&code_structure/enumerate.py)
+- [함수 안에 함수가?](./control_flow&code_structure/def_in_def.py)
+- [함수의 설명을 넣어보자!](./control_flow&code_structure/docstrings.py)
+- [parameter to tuple, dictionary](./control_flow&code_structure/parameter_tup,dic.py)
 <br>
 <br>
 
