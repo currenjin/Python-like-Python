@@ -129,14 +129,6 @@ print(f'My name is {family} {name}. My Family name is {family}')
 
 <br>
 
-### [주석](./control_flow&code_structure/comment.py)
-### [논리 연산](./control_flow&code_structure/logical_operation.py)
-### [None](./control_flow&code_structure/comment.py)
-### [한 줄이 길어진다면?](./control_flow&code_structure/next_line.py)
-### [예외 처리](./control_flow&code_structure/exception.py)
-### [Namespace&Scope](./control_flow&code_structure/namespace&scope.py)
-<br>
-
 ### 반복문
 
 - [while(else, continue, break)](./control_flow&code_structure/while.py)
@@ -168,6 +160,14 @@ print(f'My name is {family} {name}. My Family name is {family}')
 - [Dictionary](./control_flow&code_structure/dictionary_comprehension.py)
 - [Set](./control_flow&code_structure/set_comprehension.py)
 - [Generator](./control_flow&code_structure/generator_comprehension.py)
+<br>
+
+### [주석](./control_flow&code_structure/comment.py)
+### [논리 연산](./control_flow&code_structure/logical_operation.py)
+### [None](./control_flow&code_structure/comment.py)
+### [한 줄이 길어진다면?](./control_flow&code_structure/next_line.py)
+### [예외 처리](./control_flow&code_structure/exception.py)
+### [Namespace&Scope](./control_flow&code_structure/namespace&scope.py)
 <br>
 
 ### [Decorator](./control_flow&code_structure/decorator.py)
