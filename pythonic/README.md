@@ -133,6 +133,8 @@ print(f'My name is {family} {name}. My Family name is {family}')
 ### [논리 연산](./control_flow&code_structure/logical_operation.py)
 ### [None](./control_flow&code_structure/comment.py)
 ### [한 줄이 길어진다면?](./control_flow&code_structure/next_line.py)
+### [예외 처리](./control_flow&code_structure/exception.py)
+### [Namespace&Scope](./control_flow&code_structure/namespace&scope.py)
 <br>
 
 ### 반복문
@@ -158,6 +160,18 @@ print(f'My name is {family} {name}. My Family name is {family}')
 - [함수 안에 함수가?](./control_flow&code_structure/def_in_def.py)
 - [함수의 설명을 넣어보자!](./control_flow&code_structure/docstrings.py)
 - [parameter to tuple, dictionary](./control_flow&code_structure/parameter_tup,dic.py)
+<br>
+
+### [Decorator](./control_flow&code_structure/decorator.py)
+### [Generator](./control_flow&code_structure/generator.py)
+### [Lambda](././control_flow&code_structure/lambda.py)
+
+### Comprehensions
+
+- [List](./control_flow&code_structure/list_comprehension.py)
+- [Dictionary](./control_flow&code_structure/dictionary_comprehension.py)
+- [Set](./control_flow&code_structure/set_comprehension.py)
+- [Generator](./control_flow&code_structure/generator_comprehension.py)
 <br>
 <br>
 
