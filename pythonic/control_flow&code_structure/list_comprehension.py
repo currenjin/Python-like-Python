@@ -23,3 +23,7 @@ print(r)
 # 위 코드를 이 방법으로 할 수 있다.
 r = [i for i in t if i % 2 == 0]
 print(r)
+
+
+r = [i * j for i in t for j in t]
+print(r)
