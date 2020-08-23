@@ -162,17 +162,17 @@ print(f'My name is {family} {name}. My Family name is {family}')
 - [parameter to tuple, dictionary](./control_flow&code_structure/parameter_tup,dic.py)
 <br>
 
-### [Decorator](./control_flow&code_structure/decorator.py)
-### [Generator](./control_flow&code_structure/generator.py)
-### [Lambda](././control_flow&code_structure/lambda.py)
-<br>
-
 ### Comprehensions
 
 - [List](./control_flow&code_structure/list_comprehension.py)
 - [Dictionary](./control_flow&code_structure/dictionary_comprehension.py)
 - [Set](./control_flow&code_structure/set_comprehension.py)
 - [Generator](./control_flow&code_structure/generator_comprehension.py)
+<br>
+
+### [Decorator](./control_flow&code_structure/decorator.py)
+### [Generator](./control_flow&code_structure/generator.py)
+### [Lambda](././control_flow&code_structure/lambda.py)
 <br>
 <br>
 
