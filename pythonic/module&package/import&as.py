@@ -36,10 +36,10 @@
 
 
 # 옛 버전과 새 버전 간의 오류를 해결하기 위한 예외처리
-try:
-    from package import utils
-except:
-    from package.tools import utils
+# try:
+#     from package import utils
+# except:
+#     from package.tools import utils
 
-r = utils.say_twice('word')
-print(r)
+# r = utils.say_twice('word')
+# print(r)
