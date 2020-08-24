@@ -186,7 +186,7 @@ print(f'My name is {family} {name}. My Family name is {family}')
 <br>
 
 ### [모듈과 패키지를 만들어 Import](./module&package/import&as.py)
-### ['__name__', '__main__'](./module&package/name&main.py)
+### ['\_\_name\_\_', '\_\_main\_\_'](./module&package/name&main.py)
 ### [내장 함수](./module&package/builtin_function.py)
 - [공식 문서](https://docs.python.org/ko/3/library/functions.html)
 ### [표준 라이브러리](./module&package/library.py)
