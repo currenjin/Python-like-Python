@@ -18,7 +18,6 @@ class Person():
     def run(self, num):
         print('run' * num)
 
-
     # 소멸자(해당 오브젝트를 더이상 안쓸 때 실행된다.)
     def __del__(self):
         print('good bye')
