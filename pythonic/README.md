@@ -203,8 +203,19 @@ print(f'My name is {family} {name}. My Family name is {family}')
 
 <br>
 
-test
+### [Class](./object&class/class.py)
+- [클래스 상속](./object&class/class_inheritance.py)
+- [클래스 다중상속](./object&class/class_multiple_inheritance.py)
+- [클래스 변수](./object&class/class_variable.py)
+- [클래스 메소드와 스태틱 메소드](./object&class/class&static_method.py)
+<br>
 
+### [메소드 오버라이딩](./object&class/method_override.py)
+### [특수 메소드](./object&class/special_method.py)
+<br>
+
+### [property](./object&class/property.py)
+### [덕타이핑](./object&class/duck_typing.py)
 <br>
 <br>
 
