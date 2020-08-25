@@ -4,7 +4,7 @@
 # class Person(object):
 class Person():
 
-    # 클래스 초기화(자기 이름을 프린트)
+    # 생성자이자 클래스 초기화(자기 이름을 프린트)
     def __init__(self, name='Default'):
         self.name = name
         print(self.name)
@@ -18,9 +18,14 @@ class Person():
     def run(self, num):
         print('run' * num)
 
+
+    # 소멸자(해당 오브젝트를 더이상 안쓸 때 실행된다.)
+    def __del__(self):
+        print('good bye')
+
 person = Person('HyunJIn')
 person.say_something()
 
-# def persion(name):
-#    if name == 'A':
-#        print('hello')
+# 소멸자 실행
+del person
+print('###########')
