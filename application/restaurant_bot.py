@@ -18,13 +18,13 @@ with open('restaurant.csv', 'a+') as csv_file:
     fieldnames = ['Name', 'Count']
     writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
     reader = csv.DictReader(csv_file)
+    csv_file.seek(0)
     for row in reader:
-        print(row)
-        #if restaurant in row['Name']:
-        #    print('hi')
-        #    break
-        #else:
-        #        writer.writerow({'Name': restaurant, 'Count': 1})
-        #    break
+        if restaurant in row['Name']:
+            row['Count'] = 2
+            break
+        else:
+            writer.writerow({'Name': restaurant, 'Count': 1})
+            break
 
 print('감사합니다. {}님, 좋은 하루 보내세요!'.format(name))
