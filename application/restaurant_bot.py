@@ -14,9 +14,17 @@ with open('restaurant.csv', 'r') as csv_file:
 
 restaurant = input('{}님, 좋아하는 레스토랑의 이름은 무엇인가요?\n'.format(name))
 
-with open('restaurant.csv', 'a') as csv_file:
+with open('restaurant.csv', 'a+') as csv_file:
     fieldnames = ['Name', 'Count']
     writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
-    writer.writerow({'Name': restaurant, 'Count': 1})
+    reader = csv.DictReader(csv_file)
+    for row in reader:
+        print(row)
+        #if restaurant in row['Name']:
+        #    print('hi')
+        #    break
+        #else:
+        #        writer.writerow({'Name': restaurant, 'Count': 1})
+        #    break
 
 print('감사합니다. {}님, 좋은 하루 보내세요!'.format(name))
