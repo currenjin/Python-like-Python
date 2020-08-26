@@ -12,5 +12,5 @@ with tarfile.open('compress.tar.gz', 'r:gz') as tr:
 
 # tar 파일 내용을 확인하기
 with tarfile.open('compress.tar.gz', 'r:gz') as tr:
-    with tr.extractfile('compress_tar/compress/test.txt') as f:
+    with tr.extractfile('compress/test.txt') as f:
         print(f.read())

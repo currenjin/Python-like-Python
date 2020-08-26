@@ -10,6 +10,6 @@ with zipfile.ZipFile('compress.zip', 'w') as z:
         z.write(f)
 
 with zipfile.ZipFile('compress.zip', 'r') as z:
-    # z.extractall('zzz2')
-    with z.open('compress_zip/test.txt') as f:
+    #z.extractall('compress_zip')
+    with z.open('compress/test.txt') as f:
         print(f.read())
