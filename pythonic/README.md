@@ -228,8 +228,20 @@ print(f'My name is {family} {name}. My Family name is {family}')
 
 <br>
 
-Coming soon!
+### [파일을 다뤄보아요!](./file/file.py)
+- [read&write](./file/read&write.py)
+- [control file](./file/control_file.py)
+- [seek](./file/seek.py)
+- [csv](./file/csv.py)
+- [template](./file/template.py)
 
+### 압축
+- [tar](./file/tar.py)
+- [zip](./file/zip.py)
+
+### [python으로 터미널 명령을!](./file/subprocess.py)
+### [임시로 파일과 폴더를 만들어요!](./file/tempfile.py)
+### [시간을 다룹니다](./file/datetime.py)
 <br>
 <br>
 
