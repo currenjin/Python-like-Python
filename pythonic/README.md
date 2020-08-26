@@ -234,14 +234,16 @@ print(f'My name is {family} {name}. My Family name is {family}')
 - [seek](./file/seek.py)
 - [csv](./file/csv.py)
 - [template](./file/template.py)
-
-### 압축
-- [tar](./file/tar.py)
-- [zip](./file/zip.py)
+<br>
 
 ### [python으로 터미널 명령을!](./file/subprocess.py)
 ### [임시로 파일과 폴더를 만들어요!](./file/tempfile.py)
-### [시간을 다룹니다](./file/datetime.py)
+### [시간을 다룹니다.](./file/datetime.py)
+<br>
+
+### 압축파일
+- [tar](./file/tar.py)
+- [zip](./file/zip.py)
 <br>
 <br>
 
