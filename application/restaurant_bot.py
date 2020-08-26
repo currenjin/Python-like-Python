@@ -21,10 +21,14 @@ with open('restaurant.csv', 'a+') as csv_file:
     csv_file.seek(0)
     for row in reader:
         if restaurant in row['Name']:
-            row['Count'] = 2
+            with open('restaurant.csv', 'w'):
+                row['Count'] = 2
             break
         else:
             writer.writerow({'Name': restaurant, 'Count': 1})
             break
+    else:
+        writer.writeheader()
+        writer.writerow({'Name': restaurant, 'Count': 1})
 
 print('감사합니다. {}님, 좋은 하루 보내세요!'.format(name))
