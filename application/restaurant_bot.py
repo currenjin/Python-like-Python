@@ -5,7 +5,10 @@ name = input('안녕하세요! 저는 식당추천 봇이에요. 이름이 무�
 with open('restaurant.csv', 'r') as csv_file:
     reader = csv.DictReader(csv_file)
     for row in reader:
-        answer = input('이 레스토랑은 어떤가요? ({}), [YES/NO]\n'.format(row['Name']))
+        if row:
+            answer = input('이 레스토랑은 어떤가요? ({}), [YES/NO]\n'.format(row['Name']))
+        else:
+            break
         if answer == 'YES':
             break
 
