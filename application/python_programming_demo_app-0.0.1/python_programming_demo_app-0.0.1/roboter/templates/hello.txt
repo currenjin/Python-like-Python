@@ -1,0 +1,2 @@
+﻿안녕하세요 저는 $robot_name 입니다. 당신의 이름은 무엇입니까? 
+Hello, I am $robot_name. What is your name?

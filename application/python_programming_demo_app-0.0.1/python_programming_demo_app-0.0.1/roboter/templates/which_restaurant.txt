@@ -1,0 +1,2 @@
+﻿$user_name 씨, 좋아하는 레스토랑은 어디인가요? 
+$user_name, which restaurants do you like?

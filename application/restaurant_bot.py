@@ -21,9 +21,7 @@ with open('restaurant.csv', 'a+') as csv_file:
     csv_file.seek(0)
     for row in reader:
         if restaurant in row['Name']:
-            #with open('restaurant.csv', 'w') as plus_count:
-            #    plus_writer = csv.writer(plus_count)
-            #    plus_writer.writerow(str(int(row['Count']) + 1))
+            csv_file.write(row)
             break
         else:
             writer.writerow({'Name': restaurant, 'Count': 1})

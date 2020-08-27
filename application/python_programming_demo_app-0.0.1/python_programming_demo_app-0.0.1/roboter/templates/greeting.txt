@@ -1,0 +1,3 @@
+﻿제가 추천하는 레스토랑은 $restaurant 입니다. 
+I recommend $restaurant restaurant. 이 레스토랑을 좋아하십니까? [Yes/No]
+Do you like it? [y/n]
